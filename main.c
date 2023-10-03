@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Vai toma no cu seu gay");
+    printf("Vai toma no cu se gay");
 
     return 0;
 }
